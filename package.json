@@ -7,7 +7,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "d evDependencies": {
+  "devDependencies": {
     "vite": "^5.2.0"
   },
   "dependencies": {
